@@ -1,7 +1,7 @@
 {
   "moodboards": [
     {
-      "name": "iman gadzi",
+      "name": "mood board 1",
       "id": "mb1",
       "groups": [
         {
@@ -9,47 +9,20 @@
           "videos": [
             {"id": "v1", "file": "a1.mp4"},
             {"id": "v2", "file": "a2.mp4"},
-            {"id": "v3", "file": "a3.mp4"},
-            {"id": "v4", "file": "a4.mp4"},
-            {"id": "v5", "file": "a5.mp4"},
-            {"id": "v6", "file": "a6.mp4"},
-            {"id": "v7", "file": "a7.mp4"},
-            {"id": "v8", "file": "a8.mp4"},
-            {"id": "v9", "file": "a9.mp4"},
-            {"id": "v10", "file": "a10.mp4"},
-            {"id": "v11", "file": "a11.mp4"},
-            {"id": "v12", "file": "a12.mp4"},
-            {"id": "v13", "file": "a13.mp4"},
-            {"id": "v14", "file": "a14.mp4"},
-            {"id": "v15", "file": "a15.mp4"},
-            {"id": "v16", "file": "a16.mp4"},
-            {"id": "v17", "file": "a17.mp4"}
-          ]
+            {"id": "v3", "file": "a3.mp4"}
         },
         {
           "id": "g2",
           "videos": [
-            {"id": "v18", "file": "a18.mp4"},
-            {"id": "v19", "file": "a19.mp4"},
-            {"id": "v20", "file": "a20.mp4"},
-            {"id": "v21", "file": "a21.mp4"},
-            {"id": "v22", "file": "a22.mp4"},
-            {"id": "v23", "file": "a23.mp4"},
-            {"id": "v24", "file": "a24.mp4"},
-            {"id": "v25", "file": "a25.mp4"},
-            {"id": "v26", "file": "a26.mp4"},
-            {"id": "v27", "file": "a27.mp4"},
-            {"id": "v28", "file": "a28.mp4"},
-            {"id": "v29", "file": "a29.mp4"},
-            {"id": "v30", "file": "a30.mp4"},
-            {"id": "v31", "file": "a31.mp4"},
-            {"id": "v32", "file": "a32.mp4"}
+            {"id": "v18", "file": "a4.mp4"},
+            {"id": "v19", "file": "a5.mp4"},
+            {"id": "v20", "file": "a6.mp4"}
           ]
         }
       ]
     },
     {
-      "name": "dan korsby",
+      "name": "mood board 2",
       "id": "mb2",
       "groups": [
         {
@@ -58,76 +31,11 @@
             {"id": "v1", "file": "b1.mp4"},
             {"id": "v2", "file": "b2.mp4"},
             {"id": "v3", "file": "b3.mp4"},
-            {"id": "v4", "file": "b4.mp4"},
-            {"id": "v5", "file": "b5.mp4"},
-            {"id": "v6", "file": "b6.mp4"},
-            {"id": "v7", "file": "b7.mp4"},
-            {"id": "v8", "file": "b8.mp4"},
-            {"id": "v9", "file": "b9.mp4"},
-            {"id": "v10", "file": "b10.mp4"},
-            {"id": "v11", "file": "b11.mp4"},
-            {"id": "v12", "file": "b12.mp4"},
-            {"id": "v13", "file": "b13.mp4"},
-            {"id": "v14", "file": "b14.mp4"},
-            {"id": "v15", "file": "b15.mp4"}
+            {"id": "v4", "file": "b4.mp4"}
           ]
         }
       ]
-    },
-    {
-      "name": "magnet media",
-      "id": "mb3",
-      "groups": [
-        {
-          "id": "g1",
-          "videos": [
-            {"id": "v1", "file": "c1.mp4"},
-            {"id": "v2", "file": "c2.mp4"},
-            {"id": "v3", "file": "c3.mp4"}
-          ]
-        },
-        {
-          "id": "g2",
-          "videos": [
-            {"id": "v4", "file": "c4.mp4"},
-            {"id": "v5", "file": "c5.mp4"},
-            {"id": "v6", "file": "c6.mp4"},
-            {"id": "v7", "file": "c7.mp4"},
-            {"id": "v8", "file": "c8.mp4"},
-            {"id": "v9", "file": "c9.mp4"},
-            {"id": "v10", "file": "c10.mp4"},
-            {"id": "v11", "file": "c11.mp4"},
-            {"id": "v12", "file": "c12.mp4"},
-            {"id": "v13", "file": "c13.mp4"},
-            {"id": "v14", "file": "c14.mp4"},
-            {"id": "v15", "file": "c15.mp4"},
-            {"id": "v16", "file": "c16.mp4"},
-            {"id": "v17", "file": "c17.mp4"},
-            {"id": "v18", "file": "c18.mp4"},
-            {"id": "v19", "file": "c19.mp4"},
-            {"id": "v20", "file": "c20.mp4"},
-            {"id": "v21", "file": "c21.mp4"},
-            {"id": "v22", "file": "c22.mp4"},
-            {"id": "v23", "file": "c23.mp4"}
-          ]
-        }
-      ]
-    },
-    {
-      "name": "ali abdal",
-      "id": "mb4",
-      "groups": [
-        {
-          "id": "g1",
-          "videos": [
-            {"id": "v1", "file": "d1.mp4"},
-            {"id": "v2", "file": "d2.mp4"},
-            {"id": "v3", "file": "d3.mp4"},
-            {"id": "v4", "file": "d4.mp4"},
-            {"id": "v5", "file": "d5.mp4"},
-            {"id": "v6", "file": "d6.mp4"}
-          ]
-        }
+    }
       ]
     }
   ]
