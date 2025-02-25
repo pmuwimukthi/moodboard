@@ -1,0 +1,25 @@
+{
+  "moodboards": [
+    {
+      "name": "iman",
+      "id": "mb1",
+      "groups": [
+        {
+          "id": "g1",
+          "videos": [
+            {"id": "v1", "file": "3.mp4"},
+            {"id": "v1", "file": "5.mp4"},
+            {"id": "v2", "file": "2.mp4"}
+          ]
+        },
+        {
+          "id": "g2",
+          "videos": [
+            {"id": "v3", "file": "b1.mp4"},
+            {"id": "v4", "file": "b2.mp4"}
+          ]
+        }
+      ]
+    }
+  ]
+}
