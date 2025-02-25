@@ -37,7 +37,7 @@ public/assets/videos/
 ```
 2. Configure mood boards in `public/moodboards.json`:
 
-replace with your video file names. if you don't want to group the video files. just create one group and put init
+replace with your video file names. if you don't want to group the video files. just create one group and put in it.
 ```bash
 
 {
