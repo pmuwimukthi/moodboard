@@ -36,23 +36,50 @@ npm install
 public/assets/videos/
 ```
 2. Configure mood boards in `public/moodboards.json`:
+
+replace with your video file names. if you don't want to group the video files. just create one group and put init
 ```bash
+
 {
-"moodboards": [
-  {
-    "name": "Your Board Name",
-    "id": "unique_id",
-    "groups": [
-      {
-        "id": "group_1",
-        "videos": [
-          {"id": "video_1", "file": "your_video.mp4"},
-          {"id": "video_2", "file": "another_video.mp4"}
+  "moodboards": [
+    {
+      "name": "mood board 1",
+      "id": "mb1",
+      "groups": [
+        {
+          "id": "g1",
+          "videos": [
+            {"id": "v1", "file": "a1.mp4"},
+            {"id": "v2", "file": "a2.mp4"},
+            {"id": "v3", "file": "a3.mp4"}
           ]
-      }
+        },
+        {
+          "id": "g2",
+          "videos": [
+            {"id": "v18", "file": "a4.mp4"},
+            {"id": "v19", "file": "a5.mp4"},
+            {"id": "v20", "file": "a6.mp4"}
+          ]
+        }
       ]
-  }
-]
+    },
+    {
+      "name": "mood board 2",
+      "id": "mb2",
+      "groups": [
+        {
+          "id": "g1",
+          "videos": [
+            {"id": "v1", "file": "b1.mp4"},
+            {"id": "v2", "file": "b2.mp4"},
+            {"id": "v3", "file": "b3.mp4"},
+            {"id": "v4", "file": "b4.mp4"}
+          ]
+        }
+      ]
+    }
+  ]
 }
 
 ```
